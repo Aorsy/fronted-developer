@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+    color: DodgerBlue;
+    background-color: black;
+    border: 1cm solid rgb(0,0,255); /*Each parameter (red, green, and blue) defines the intensity of the color between 0 and 255.*/
+  }
+/*This is used to connect "p" in css with HTML*/
+p {
+    background-color:rgba(255,99,71,1); /*red, green, blue and alpha, we can also use hsla(hue, saturation, lightness, alpha) or hsl(hue, saturation, lightness)*/
+    color: white; /*property and value, so in this case the property is color and the color is white.*/
+  }
